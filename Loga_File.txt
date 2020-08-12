@@ -1,0 +1,3 @@
+Hey This is Loga
+Creating my first git repo with this file
+This will be located in Desktop inside Git 
